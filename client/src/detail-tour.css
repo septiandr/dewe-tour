@@ -1,0 +1,154 @@
+#tour-container h1{
+margin-left: 226px;
+margin-top: 66px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+}
+#tour-container #country{
+    position: absolute;
+width: 99px;
+height: 33px;
+left: 228px;
+top: 206px;
+
+font-family: Avenir;
+font-style: normal;
+font-weight: 800;
+font-size: 24px;
+line-height: 33px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #A8A8A8;
+}
+#detail-img{
+flex-direction: column;
+margin-top: 100px;
+margin-left: 211px;
+margin-right: 211px;
+}
+#main-img img{
+width: 1100px;
+height: 450px;
+left: 211px;
+top: 266px;
+border-radius: 5px;
+}
+#secondary-img{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between !important;
+}
+#secondary-img img{
+margin-top: 12.33px;
+    width: 360px !important;
+    height: 180px !important;
+   border-radius: 5px;
+
+}
+#info{
+    width: 1003px;
+height: 91px;
+margin-left: 219px;
+margin-right:218px ;
+margin-top: 50px;
+}
+#dis-info{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+
+#dis-info p{
+    font-family: Avenir;
+font-style: normal;
+font-weight: 800;
+font-size: 13px;
+line-height: 18px;
+/* identical to box height */
+
+color: #A8A8A8;
+}
+#dis-info h3{
+    font-family: Avenir;
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 25px;
+/* identical to box height */
+
+color: #000000;
+}
+#descriptionn{
+    width: 1003px;
+    height: 116px;
+    margin-left: 219px;
+    margin-top: 100px;
+    
+}
+#tag{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 219px;
+    margin-right: 300px;
+    margin-top: 76px;
+}
+#total{
+    width: 1003px;
+height: 33px;
+margin-top:50px;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+margin-left: 219px;
+    margin-right: 300px;
+}
+
+
+#btn-book{
+    width: 213px;
+height: 50px;
+left: 1016px;
+top: 1284px;
+margin-top: 49px;
+margin-left: 1016px;
+background: #FFAF00;
+border-radius: 5px;
+color: white !important;
+font-weight: bold;
+text-decoration: none;
+}
+#sum{
+    display: flex;
+    flex-direction: row ;
+    align-items: center;
+
+
+}
+#sum button{
+ color: white;
+ display: flex;
+ font-size: 20px;
+ font-weight: bold;
+background-color:#FFAF00;
+width: 26.61px;
+height: 26.61px;
+align-items: center;
+margin-left: 5px;
+margin-right: 5px;
+
+
+
+
+
+
+border-radius: 10px;
+
+}

@@ -1,0 +1,41 @@
+#con{
+    
+    margin:100px 300px 100px 300px;
+}
+select{
+    width: 1000px;
+    height: 40px;
+    border-color: #e4dede;
+    border-radius: 3px;
+}
+#upload{
+margin-top: 30px;
+width: 312px;
+height: 40px;
+background: rgba(196, 196, 196, 0.5);
+border: 2px solid #B1B1B1;
+box-sizing: border-box;
+border-radius: 5px;
+color: #FFAF00;
+font-family: Avenir;
+font-weight: bold;
+}
+#upload span{
+
+    margin-left: 10px !important;
+}
+#btn-addTrip{
+width: 200px;
+height: 40px;
+margin-top: 115px;
+margin-left: 400px;
+color: antiquewhite;
+font-weight:bold;
+background: #FFAF00;
+border-radius: 5px;
+}
+#prev img{
+    margin-top: 30px;
+    width: 400px;
+    height: 400px;
+}

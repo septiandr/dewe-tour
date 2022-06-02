@@ -1,0 +1,85 @@
+
+#pay-container{
+    position: absolute;
+width: 1035px;
+height: 550px;
+left: 210px;
+top: 140px;
+
+background: #FFFFFF;
+border: 2px solid #B7B7B7;
+box-sizing: border-box;
+border-radius: 5px;
+}
+#pay-top{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin:20px 50px 5px 50px;
+}
+#main-con{
+    display: flex;
+    flex-direction: row;
+}
+#main-pay h1{
+    font-size: 24px;;
+}
+#pay-name{
+    width: 320px;
+    font-size: 20px;
+}
+
+#pay-name h1{
+    font-weight: bold;
+}
+#main-pay{
+    flex:60%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;   
+    justify-content: center;
+    text-align: left; 
+    
+}
+#photo{
+margin-right:50px ;
+width: 138.87px;
+height: 139.31px;
+
+
+
+background: rgba(154, 154, 154, 0.23);
+border: 3px solid #000000;
+box-sizing: border-box;
+}
+#main-pay div{
+    margin-left: 20px;
+    padding: 20px 20px 20px 20px;
+}
+#btn-pay{
+color: #FFFFFF;
+width: 213px;
+height: 50px;
+left: 1016px;
+margin-top: 30px;
+margin-left:800px;
+background: #FFAF00;
+border-radius: 5px;
+}
+#tabel-con{
+    display: flex;
+    flex-direction: row;
+}
+.table{
+    flex: 50%;
+    display: flex;
+    flex-direction: column;
+}
+#qty{
+    flex: 30%;
+    margin-top: 50px;
+    margin-left: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}

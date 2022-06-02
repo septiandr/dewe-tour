@@ -1,0 +1,45 @@
+[
+    {
+        "id":1,
+        "image": "./components/assets/Rectangle 8.png",
+        "name": "6 D / 4 N Fun Tassie Vacation...",
+        "tag": "IDR. 12,398,000",
+        "country":"Australia"
+    },
+    {
+        "id":2,
+        "image": "./components/assets/Rectangle 8 (1).png",
+        "name": "6 D / 4 N Exciting Summer in ...",
+        "tag": "IDR. 10,288,000",
+        "country":"South Korea"
+    },
+    {
+        "id":3,
+        "image": "./components/assets/Rectangle 8 (2).png",
+        "name": "8 D / 6 N Wonderful Autum...",
+        "tag": "IDR. 28,999,000",
+        "country":"Japan"
+    },
+    {
+        "id":4,
+        "image": "./components/assets/Rectangle 8 (3).png",
+        "name": "4 D / 3 N Overland Jakarta B...",
+        "tag": "IDR. 3,188,000",
+        "country":"Indonesia"
+    },
+    {
+        "id":5,
+        "image": "./components/assets/Rectangle 8 (4).png",
+        "name": "4 D / 3 N Labuan Bajo Delight",
+        "tag": "IDR. 10,488,000",
+        "country":"Indonesia"
+    },
+    {
+        "id":6,
+        "image": "./components/assets/Rectangle 8 (5).png",
+        "name": " 5 D / 4 N Magic Tokyo Fun ",
+        "tag": "IDR. 11,188,000",
+        "country":"Japan"
+    }
+  ]
+  

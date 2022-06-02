@@ -1,0 +1,24 @@
+#footer{
+position: absolute;
+width: 1400px;
+height: 54px;
+left: 2px;
+top: 1945px;
+
+background: #FFAF00;
+}
+#footer p{
+text-align: center;
+font-family: Product Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+#footer img{
+margin: -140px 0px 0px 1390px;
+}

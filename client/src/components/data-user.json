@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "image": "./components/assets/Rectangle 8.png",
+        "name": "user",
+        "email": "user@user.com",
+        "password":"12",
+        "phone":"0001",
+        "address":"user"
+    },
+    {
+        "id":2,
+        "image": "./components/assets/Rectangle 8 (1).png",
+        "name": "admin",
+        "email": "admin@admin",
+        "password":"South Korea",
+        "phone":"12",
+        "address":"user"
+    }
+]

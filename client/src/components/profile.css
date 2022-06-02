@@ -1,0 +1,57 @@
+#profile-container{
+    position: absolute;
+width: 785px;
+height: 453px;
+left: 328px;
+top: 188px;
+display: flex;
+justify-content: space-between;
+flex-direction: row;
+
+/* White */
+
+background: #FFFFFF;
+/* Shadow Card */
+
+box-shadow: 0px 0px 4px rgba(5, 5, 5, 0.08);
+border-radius: 8px;
+}
+#left-profile{
+    width: 332px;
+height: 321px;
+left: 359px;
+top: 216px;
+margin-left: 31px;
+margin-top: 28px;
+}
+#right-profile{
+    margin: 24px 24px 24px 0px;
+    
+}
+#right-profile button{
+
+width: 280px;
+height: 50px;
+left: 809px;
+top: 590px;
+margin-top: 13px;
+
+background: #FFAF00;
+border-radius: 5px;
+}
+#right-profile img {
+    width: 280px;
+    height: 300px;
+}
+#left-profile label{
+    font-weight: bold;
+    
+    margin-bottom: 20px;
+    
+}
+#left-profile p{
+    margin-bottom: -5px;
+}
+#left-profile h1{
+    margin-bottom: 30px;
+}
